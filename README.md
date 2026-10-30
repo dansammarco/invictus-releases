@@ -6,7 +6,7 @@ This repository holds only the signed builds. **Download the newest one from [th
 
 | | Download | Then |
 |---|---|---|
-| **Windows** 10 or 11 | `Invictus-<version>.zip` | Unzip it anywhere (Documents is a good place) and open `Invictus.exe`. |
+| **Windows** 10 or 11 | `Invictus-<version>.zip` | Unzip it anywhere (Documents is a good place) and open `Invictus.exe`. The first time, Windows may say it protected your PC (Invictus isn't signed): click **More info**, then **Run anyway**. |
 | **Mac** with Apple Silicon (M1 or newer), macOS 11+ | `Invictus-MacOS-<version>.zip` | Double-click to unzip, do the one-time step below, then open `Invictus.app`. |
 
 ## First open on a Mac
